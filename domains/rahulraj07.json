@@ -1,0 +1,11 @@
+{
+  "description": "Rahul Raj Portfolio",
+  "repo": "https://github.com/rahulrakshi3-netizen/portfolio",
+  "owner": {
+    "username": "rahulrakshi3-netizen",
+    "email": "rahulrakshi3@gmail.com"
+  },
+  "record": {
+    "CNAME": "rahulraj-portfolio-mu.vercel.app"
+  }
+}
